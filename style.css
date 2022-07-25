@@ -1,0 +1,40 @@
+.panda-bg-info {
+    background-color: #fceae8;
+}
+
+.catagories img {
+    width: 130px;
+}
+
+.panda-btn-warning {
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+    border-radius: 10px;
+    color: white;
+    padding: 10px 40px;
+    cursor: pointer;
+
+}
+
+.top-h1 {
+    font-size: 58px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+
+.top-p {
+    font-size: 22px;
+    padding: 20px 20px 0px 0px;
+}
+
+.panda-btn-light {
+    background-color: rgb(9, 9, 114);
+    padding: 5px 25px;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.panda-btn-light:hover {
+    background-color: rgb(0, 89, 145);
+    color: white;
+}
